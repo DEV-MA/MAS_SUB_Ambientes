@@ -1,0 +1,3 @@
+Copia la carpeta "game" y "lib" dentro de la donde tienes instalado Monika After Story
+
+Eso es todo.
